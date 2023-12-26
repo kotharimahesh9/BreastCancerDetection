@@ -24,4 +24,4 @@ The model's performance is evaluated using metrics such as accuracy and the conf
 
 ## Contribution
 
-Contributions are welcome! If you have suggestions or find issues, please open an [issue](https://github.com/kotharimahesh9/breast-cancer-classification/issues).
+Contributions are welcome! If you have suggestions or find issues, please open an [issue](https://github.com/kotharimahesh9/BreastCancerDetection/issues).
